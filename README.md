@@ -2,10 +2,10 @@
 CRUD Node.js / MongoDB / Express
 
 # Install
-npm install
-use your mongodb 
-Mongodb collection users / teachers/ students
-use your SECRET_TOKEN for authentication
+1. npm install
+2. use your mongodb 
+3. Mongodb collection users / teachers/ students
+4. use your SECRET_TOKEN for authentication
 
 # Start
 npm run dev
