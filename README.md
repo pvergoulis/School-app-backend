@@ -19,3 +19,4 @@ npm run dev
 3. cors  {for giving access to different localhost}
 4. jsonwebtoken  {for Authentication}
 5. bcrypt {For encryption and decryption passwords}
+6. swagger-ui-express / mongoose-to-swagger
